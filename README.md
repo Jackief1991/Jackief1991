@@ -3,7 +3,7 @@
 
 - [Vulnerability Assessment Report](https://github.com/Jackief1991/Vulnerabilities-Assessment-Report)
 - [File Permissions in Linux](https://github.com/Jackief1991/File-permissions-in-Linux)
-- []()
+- [Apply filters to SQL queries](https://github.com/Jackief1991/Apply-filters-to-SQL-queries)
 
 
 <h2>Information Technology Projects:</h2>
